@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5290475120461372703
+  m_GuidHigh: 10776551281399177373
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5712062068275595016
+      m_GuidHigh: 11842561651613944496
+    m_SerializedTextureGuid:
+      m_GuidLow: 2284638006618098241
+      m_GuidHigh: 946850518041860168
+    m_Size: {x: 0.174, y: 0.09807272}
+    m_SpecifySize: 1
+    m_Name: euneiz_660_372
+    m_Texture: {fileID: 0}
