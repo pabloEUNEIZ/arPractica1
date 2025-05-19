@@ -12,7 +12,7 @@ namespace UnityEngine.XR.ARFoundation.Samples
     /// and moved to the hit position.
     /// </summary>
     [RequireComponent(typeof(ARRaycastManager))]
-    public class PlaceOnPlane : PressInputBase
+    public class PlaceOnPlaneOriginal : PressInputBaseOriginal
     {
         [SerializeField]
         [Tooltip("Instantiates this prefab on a plane at the touch location.")]

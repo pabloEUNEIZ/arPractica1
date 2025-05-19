@@ -2,7 +2,7 @@ using UnityEngine.InputSystem;
 
 namespace UnityEngine.XR.ARFoundation.Samples
 {
-    public abstract class PressInputBase : MonoBehaviour
+    public abstract class PressInputBaseOriginal : MonoBehaviour
     {
         protected InputAction m_PressAction;
 

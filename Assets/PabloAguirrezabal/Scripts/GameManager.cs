@@ -43,7 +43,7 @@ public class GameManager : MonoBehaviour
         {
             go=prefabRojo;
         }
-        GameObject.Find("XR Origin").GetComponent<PlaceOnPlane>().changePrefab(go);
+        GameObject.Find("XR Origin").GetComponent<PlaceOnPlaneOriginal>().changePrefab(go);
     }
 
     public void changeScene()
